@@ -29,6 +29,11 @@ Econometrics II
 
   Files: 
 
+  Biksi_Prader_2_assigment_econometrics_ii.dta
+  
+  Biksi_Prader_2_assigment_econometrics_ii.do
+  
+  Biksi_Prader_2_assigment_econometrics_ii.pdf
   
   
 
