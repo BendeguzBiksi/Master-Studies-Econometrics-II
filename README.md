@@ -40,8 +40,14 @@ Econometrics II
 - Assignment 3: 
 
   Files: 
-  
 
+  Biksi_Adnan_3_assigment_econometrics_ii.dta
+  
+  Biksi_Adnan_3_assigment_econometrics_ii.do
+  
+  Biksi_Adnan_3_assigment_econometrics_ii.pdf
+  
+  
   
  
 
