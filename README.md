@@ -13,11 +13,15 @@ Econometrics II
 
 
 
-- Assignment 1: 
+- Assignment 1: Estimation of Demand and Supply Model of a Homogeneous Good
   
   Files: 
   
-
+  Biksi_Prader_1_assigment_econometrics_ii_rail.dta
+  
+  Biksi_Prader_1_assigment_econometrics_ii_rail.do
+  
+  Biksi_Prader_1_assigment_econometrics_ii_rail.pdf
   
   
 
